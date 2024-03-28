@@ -1,0 +1,21 @@
+.container {
+padding: 8px;
+    border: 1px solid black;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.block {
+    display: flex;
+    flex-direction: column;
+        align-items: center;
+}
+
+.Online {
+    color: green;
+}
+
+.Offline {
+    color: red;
+}
